@@ -1,0 +1,11 @@
+.productbox{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  
+}
+#productwrapper{
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+}
